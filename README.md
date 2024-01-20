@@ -22,3 +22,5 @@ Clone the repository
 Install dependencies with npm install
 Run the app with npm run dev
 Feel free to contribute, report issues, or suggest enhancements. Happy coding! 🚀
+
+Live site at: https://todo-opal-tau.vercel.app/
